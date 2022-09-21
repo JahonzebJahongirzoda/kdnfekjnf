@@ -1,0 +1,99 @@
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Webapi.exe
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Webapi.deps.json
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Webapi.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Dapper.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Domain.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\HP\Desktop\New folder\Webapi\bin\Debug\net6.0\Domain.pdb
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\scopedcss\bundle\Webapi.styles.css
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\refint\Webapi.dll
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\Webapi.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\Webapi\obj\Debug\net6.0\ref\Webapi.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Webapi.exe
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Webapi.deps.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Webapi.runtimeconfig.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Dapper.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Domain.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\HP\Desktop\New folder - Copy\Webapi\bin\Debug\net6.0\Domain.pdb
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\scopedcss\bundle\Webapi.styles.css
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\refint\Webapi.dll
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\Webapi.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder - Copy\Webapi\obj\Debug\net6.0\ref\Webapi.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Webapi.exe
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Webapi.deps.json
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Webapi.runtimeconfig.json
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Dapper.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Domain.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\HP\Desktop\Exam of api\Webapi\bin\Debug\net6.0\Domain.pdb
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\scopedcss\bundle\Webapi.styles.css
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.csproj.CopyComplete
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\refint\Webapi.dll
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.pdb
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\Webapi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Exam of api\Webapi\obj\Debug\net6.0\ref\Webapi.dll
